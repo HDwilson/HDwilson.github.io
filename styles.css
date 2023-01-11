@@ -6,7 +6,7 @@ body {
     position: fixed;
     top: 0px;
     height: 45px;
-    width: fit-content;
+    width: max-content;
     color: brown;
 }
 
