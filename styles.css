@@ -6,8 +6,9 @@ body {
     position: absolute;
     top: 0px;
     height: 45px;
-    width: max-content;
-    background-color: brown;
+    width: 100%;
+    left: 0px;
+    background-color: #b00b55;
 }
 
 #title {
