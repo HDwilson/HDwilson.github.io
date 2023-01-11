@@ -1,17 +1,7 @@
-#quiz-buttons {
-    text-align: center;
+head {
+    background-color: aqua;
 }
 
-h1 {
+#title {
     text-align: center;
-}
-
-button {
-    background-color: #4CAF50;
-    /* Green */
-    color: white;
-    padding: 16px;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
 }
