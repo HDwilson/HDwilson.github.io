@@ -1,17 +1,11 @@
 body {
-    background-color: #420069;
+    margin: 0px;
+    background-color: coral;
 }
 
-#top {
-    position: absolute;
-    top: 0px;
+#navbar {
+    position: fixed;
     height: 45px;
     width: 100%;
-    left: 0px;
-    background-color: #b00b55;
-}
-
-#title {
-    margin: 0px;
-    text-align: center;
+    background-color: cornflowerblue;
 }
