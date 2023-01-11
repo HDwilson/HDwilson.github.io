@@ -1,5 +1,12 @@
-head {
+body {
     background-color: aqua;
+}
+
+#top {
+    position: fixed;
+    top: 0px;
+    height: 45px;
+    color: brown;
 }
 
 #title {
